@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🏛️ Titan Nx | Sovereign Edition
-### النظام الأكاديمي السيادي لطلاب الجامعات - V1.0.0
+# 🏛️ Titan Nx
+### النظام الأكاديمي السيادي لطلاب الجامعات
 
 ![Version](https://img.shields.io/badge/Version-1.0.0-FFDD00?style=for-the-badge&logo=electron&logoColor=black)
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows)

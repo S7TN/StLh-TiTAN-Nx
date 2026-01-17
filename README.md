@@ -3,9 +3,8 @@
 # 🏛️ Titan Nx
 ### النظام الأكاديمي السيادي لطلاب الجامعات
 
-![Version](https://img.shields.io/badge/Version-1.0.0-FFDD00?style=for-the-badge&logo=electron&logoColor=black)
+![Version](https://img.shields.io/badge/Version-1.0-FFDD00?style=for-the-badge&logo=electron&logoColor=black)
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows)
-![License](https://img.shields.io/badge/Price-Free-success?style=for-the-badge)
 
 <br>
 <p align="center">

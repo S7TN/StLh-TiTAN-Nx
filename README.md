@@ -1,6 +1,6 @@
 # StLh-TiTAN-Nx
 
-# 🚀 StLh Titan Nx // Sovereign Edition
+# 🚀 StLh Titan Nx 
 
 ![Version](https://img.shields.io/badge/version-90.0.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)

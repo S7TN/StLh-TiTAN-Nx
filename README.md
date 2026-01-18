@@ -3,7 +3,7 @@
 # 🏛️ Titan Nx
 ### النظام الأكاديمي السيادي لطلاب الجامعات
 
-![Version](https://img.shields.io/badge/Version-1.0-FFDD00?style=for-the-badge&logo=electron&logoColor=black)
+![Version](https://img.shields.io/badge/Version-1.2-FFDD00?style=for-the-badge&logo=electron&logoColor=black)
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows)
 
 <br>
@@ -54,7 +54,7 @@
 ## 📥 طريقة التحميل (Download)
 
 1. اذهب إلى قسم **[Releases](https://github.com/S7TN/StLh-TiTAN-Nx/releases)** في يمين الصفحة.
-2. حمل الملف المسمى: **`Titan Nx Setup 1.0.0.exe`**
+2. حمل الملف المسمى: **`StLh TiTaN Nx V1.2-iNsTALLeR.exe`**
 3. وافق على التثبيت، واستمتع بتجربة أكاديمية جديدة.
 
 ---
